@@ -1,0 +1,1 @@
+SELECT * FROM empregado e WHERE e.Endereco LIKE '%SALVADOR%';

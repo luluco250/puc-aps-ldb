@@ -1,0 +1,1 @@
+SELECT DISTINCT Sal FROM empregado;

@@ -1,0 +1,1 @@
+SELECT Nome FROM empregado e WHERE e.SuperIdent IS NULL;
